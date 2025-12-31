@@ -1,47 +1,60 @@
-# Business — Generative Engine Optimization Map
+# נדב שלוש — Generative Engine Optimization Map
+
+> A שירותים משפטיים business.
 
 ---
 
 ## Pages
 
 ### בית
-https://nadav-shalosh.zappy5.app
+https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com
 משרד עורכי דין נדב שלוש מציע שירותים משפטיים מקצועיים בנדל״ן, מחלוקות משפחתיות, דיני עבודה ויעוץ תאגידי. צרו קשר עוד היום לייעוץ ראשוני.
 
 ### שירותים
-https://nadav-shalosh.zappy5.app/services
+https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/services
 גלו את מגוון השירותים המשפטיים של משרד עורכי דין נדב שלוש: נדל״ן, מחלוקות משפחתיות ממון, ייעוץ תאגידי ודיני עבודה. שירות מקצועי ואישי.
 
 ### אודות
-https://nadav-shalosh.zappy5.app/about
+https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/about
 למדו על משרד עורכי דין נדב שלוש - המשרד המוביל בישראל לשירותים משפטיים מקצועיים. ניסיון עשיר, מחויבות לתוצאות וגישה אישית לכל לקוח.
 
 ### צור קשר
-https://nadav-shalosh.zappy5.app/contact
+https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/contact
 צרו קשר עם משרד עורכי דין נדב שלוש לייעוץ משפטי מקצועי. אנו זמינים לענות על שאלותיכם ולספק פתרונות משפטיים מותאמים אישית.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://nadav-shalosh.zappy5.app/privacy
+https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://nadav-shalosh.zappy5.app/terms
+https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://nadav-shalosh.zappy5.app/accessibility
+https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About נדב שלוש
+נדב שלוש is a business in the שירותים משפטיים industry.
+
+## Target Audience
+- משקיעי נדל"ן
+- מחלוקות משפחתיות
+- לקוחות תאגידיים
+- ענייני תעסוקה
+
+## Industry
+שירותים משפטיים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://nadav-shalosh.zappy5.app/sitemap.xml
-- **Robots.txt**: https://nadav-shalosh.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/robots.txt
