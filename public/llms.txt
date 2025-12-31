@@ -1,6 +1,4 @@
-# נדב שלוש — Generative Engine Optimization Map
-
-> A שירותים משפטיים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,18 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About נדב שלוש
-נדב שלוש is a business in the שירותים משפטיים industry.
-
-## Target Audience
-- משקיעי נדל"ן
-- מחלוקות משפחתיות
-- לקוחות תאגידיים
-- ענייני תעסוקה
-
-## Industry
-שירותים משפטיים
-
+## About Business
 ---
 
 # Additional Resources
