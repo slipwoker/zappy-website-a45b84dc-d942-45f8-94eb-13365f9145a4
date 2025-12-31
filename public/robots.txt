@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/sitemap.xml
+Sitemap: https://nadav-shalosh.zappy5.app/sitemap.xml

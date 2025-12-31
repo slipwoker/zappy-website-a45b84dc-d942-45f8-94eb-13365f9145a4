@@ -1,60 +1,47 @@
-# נדב שלוש — Generative Engine Optimization Map
-
-> A שירותים משפטיים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com
+https://nadav-shalosh.zappy5.app
 משרד עורכי דין נדב שלוש מציע שירותים משפטיים מקצועיים בנדל״ן, מחלוקות משפחתיות, דיני עבודה ויעוץ תאגידי. צרו קשר עוד היום לייעוץ ראשוני.
 
 ### שירותים
-https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/services
+https://nadav-shalosh.zappy5.app/services
 גלו את מגוון השירותים המשפטיים של משרד עורכי דין נדב שלוש: נדל״ן, מחלוקות משפחתיות ממון, ייעוץ תאגידי ודיני עבודה. שירות מקצועי ואישי.
 
 ### אודות
-https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/about
+https://nadav-shalosh.zappy5.app/about
 למדו על משרד עורכי דין נדב שלוש - המשרד המוביל בישראל לשירותים משפטיים מקצועיים. ניסיון עשיר, מחויבות לתוצאות וגישה אישית לכל לקוח.
 
 ### צור קשר
-https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/contact
+https://nadav-shalosh.zappy5.app/contact
 צרו קשר עם משרד עורכי דין נדב שלוש לייעוץ משפטי מקצועי. אנו זמינים לענות על שאלותיכם ולספק פתרונות משפטיים מותאמים אישית.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/privacy
+https://nadav-shalosh.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/terms
+https://nadav-shalosh.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/accessibility
+https://nadav-shalosh.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About נדב שלוש
-נדב שלוש is a business in the שירותים משפטיים industry.
-
-## Target Audience
-- משקיעי נדל"ן
-- מחלוקות משפחתיות
-- לקוחות תאגידיים
-- ענייני תעסוקה
-
-## Industry
-שירותים משפטיים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/sitemap.xml
-- **Robots.txt**: https://zappy-site-a45b84dc-d942-45f8-94eb.onrender.com/robots.txt
+- **Sitemap**: https://nadav-shalosh.zappy5.app/sitemap.xml
+- **Robots.txt**: https://nadav-shalosh.zappy5.app/robots.txt
